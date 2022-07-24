@@ -24,7 +24,7 @@ Decode the file and store it to the desired file.
 ![decode func](https://user-images.githubusercontent.com/107580357/180644617-449e5894-9868-4c04-abef-306b886ba94b.jpg)
 
 ### Compression Rate:
-A compression varying from 6-7% of the initial input file is achived.
+A compression varying from 6-7% of the initial input file is achieved.
 
 ![Compression Rate](https://user-images.githubusercontent.com/107580357/180644767-f6551498-9211-4843-b200-81006cc26311.jpg)
 
